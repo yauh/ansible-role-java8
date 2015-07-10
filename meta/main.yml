@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Stephan Hochhaus
-  description: Installing Oracle Java 8
+  description: Set up Oracle Java 8
   company: freelance
   license: BSD
   min_ansible_version: 1.7

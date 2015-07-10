@@ -1,5 +1,5 @@
 # yauh.java8
-Ansible role for installing Java 8
+Ansible role for setting up Oracle Java 8
 
 ## Requirements
 SSH access to the remote machine
